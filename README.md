@@ -4,19 +4,18 @@ This dashboard to help the insurance company quickly analyze and visualize total
 
 🧠 Features
 - KPIs: Total Revenue, Total policies, Total claim amount, claim frequency, gender-wise total policies
-- Dynamic filters by Region, Category, and Time Period
 - Visuals: Bar Chart, Donut chart, Histogram, Area chart, Ribbon chart, Pie chart, Matrix Heat Grid
-- Clean, user-friendly layout for quick business insights
+- Clean, user-friendly layout for quick insurance insights
 
 🧾 Dataset
-The dataset used for this dashboard is stored in the as insurance_policies_data.xslx.  
+The dataset used for this dashboard is stored as insurance_policies_data.xslx.  
 (Data is used for academic and learning purposes only.)
 
 🧰 Tools Used
 - Power BI
 
 📸 Dashboard Preview
-(overview.png)
+(dashboard.png)
 
 🚀 How to View
 1. Download the .pbix file from this repository.  
