@@ -1,1 +1,1 @@
-# Power-BI-dashboard
+This is a insurance Power BI dashboard. I have created help the insurance company quickly analyze and visualize total claim amounts across different customer and vehicle categories. It allows the company to spot which segments (like car type, region, or customer profile) have the highest claims.
