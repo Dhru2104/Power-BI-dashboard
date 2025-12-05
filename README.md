@@ -9,6 +9,7 @@ This dashboard to help the insurance company quickly analyze and visualize total
 - Clean, user-friendly layout for quick insurance insights
 
 🧾 Dataset
+
 The dataset used for this dashboard is stored as insurance_policies_data.xslx.  
 (Data is used for academic and learning purposes only.)
 
