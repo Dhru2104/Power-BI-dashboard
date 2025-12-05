@@ -1,6 +1,6 @@
-Business Intelligence Dashboard
+Business Intelligence Dashboard📊
 
-📊 Overview
+Overview
 This dashboard to help the insurance company quickly analyze and visualize total claim amounts across different customer and vehicle categories. It allows the company to spot which segments (like car type, region, or customer profile) have the highest claims.
 
 🧠 Features
